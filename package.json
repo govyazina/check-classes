@@ -1,0 +1,23 @@
+{
+  "name": "check-classes",
+  "version": "1.0.0",
+  "description": "Твоя цель - разработать систему для управления ракета-носителями. Постарайся как можно больше тест-кейсов сделать зелёными.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natashamarkis/check-classes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natashamarkis/check-classes/issues"
+  },
+  "homepage": "https://github.com/natashamarkis/check-classes#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
